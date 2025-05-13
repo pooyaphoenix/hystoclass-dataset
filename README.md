@@ -41,8 +41,3 @@
 ## منابع
 
 - [🔗 Hugging Face Dataset Page](https://huggingface.co/datasets/pooyaphoenix/hystoclass)
-- [🔗 GitHub Repository](https://github.com/pooyaphoenix/hystoclass)
-
-## مجوز
-
-این مجموعه‌داده تحت مجوز [MIT](LICENSE) منتشر شده است.
